@@ -116,5 +116,6 @@ In the future, you'll be able to wire up your application like so:
     )
     
     root srv.New
+    slope_one.New
     reg postgres.New
     reg thrift.New
